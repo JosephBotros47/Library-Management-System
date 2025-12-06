@@ -23,7 +23,6 @@ A simple library management system built with C# using Object-Oriented Programmi
 - **Paradigm**: Object-Oriented Programming (Inheritance, Encapsulation, Polymorphism)
 - **Framework**: .NET
 
-## 🚀 How to Run
 
 ### Prerequisites
 - [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
